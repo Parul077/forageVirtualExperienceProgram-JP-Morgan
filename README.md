@@ -1,4 +1,4 @@
-# Forage Virtual Experience Program-JP-Morgan
+# Forage Virtual Experience Software Engineering Program -JP-Morgan
 
 In this virtual experience program, I have learned basic programming in Python and git and GitHub.
 
